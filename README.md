@@ -5,7 +5,7 @@
 
 把六個台股新聞來源彙整成一份**可以搜尋的標題列表**，每天早上 08:00 自動更新。
 
-**線上看成品 →** https://duang0615.github.io/tw-daily-news/
+**線上看成品 →** https://roganjack13-wq.github.io/tw-daily-news/
 
 ---
 
@@ -30,7 +30,7 @@
 只用 Python 標準函式庫，**不用 `pip install` 任何東西**。
 
 ```bash
-git clone https://github.com/duang0615/tw-daily-news.git
+git clone https://github.com/roganjack13-wq/tw-daily-news.git
 cd tw-daily-news
 
 python build_news.py --dry-run    # 先只抓不寫檔，確認九個來源都通
@@ -57,7 +57,7 @@ python build_news.py --no-hub     # 確認沒問題再正式產出
   "auto_update": true,
   "update_time": "08:00",
   "timezone": "Asia/Taipei",
-  "repo": "duang0615/tw-daily-news"
+  "repo": "roganjack13-wq/tw-daily-news"
 }
 ```
 

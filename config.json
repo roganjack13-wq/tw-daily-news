@@ -2,7 +2,7 @@
   "auto_update": true,
   "update_time": "08:00",
   "timezone": "Asia/Taipei",
-  "repo": "duang0615/tw-daily-news",
+  "repo": "roganjack13-wq/tw-daily-news",
 
   "_說明": {
     "auto_update": "自動更新的總開關。改成 false 就停掉，排程還在但不會動作。手動跑不受影響。",
